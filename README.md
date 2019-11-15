@@ -1,3 +1,24 @@
+
+
+React Selectbox with virtual-scrolling
+
+demo: https://codepen.io/ytw0728/project/editor/XpMbLb
+
+#### desc
+a selectbox component on react    
+with virtual scrolling, user input debouncing and reflow throttling.
+
+#### usage
+0. arrow up / down : focus the prev / next option
+0. ctrl + home : focus the first option
+0. ctrl + end : focus the last option
+0. enter : select focused option
+0. input box: type some text for option filtering
+
+<details>
+
+<summary>CRA readme</summary>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -42,3 +63,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+</detail>
